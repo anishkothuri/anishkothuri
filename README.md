@@ -68,12 +68,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishkothuri&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars&hide_rank=false" alt="Anish's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anishkothuri&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars,contribs&hide_rank=false" alt="Anish's GitHub Stats" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishkothuri&theme=dark" alt="GitHub Streak"/>
-</p>
+
 
 ## 💻 Most Used Languages
 
