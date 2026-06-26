@@ -98,6 +98,6 @@
 ## 🤝 Contributions
 
 - [UTDallasEPICS/Wellness-Center-Older-Adults](https://github.com/UTDallasEPICS/Wellness-Center-Older-Adults) — Full-stack transit scheduling app; React, Next.js, PostgreSQL, Auth0
-- [CS4485-Team-10/frontend](https://github.com/CS4485-Team-10/frontend) — Capstone project frontend
+- [CS4485-Team-10/frontend](https://github.com/CS4485-Team-10/frontend) — Youtube Intelligence Frontend 
 
 ---
