@@ -69,13 +69,20 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anishkothuri&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars&hide_rank=false" alt="Anish's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishkothuri&layout=compact&theme=dark&langs_count=8" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishkothuri&theme=dark" alt="GitHub Streak"/>
 </p>
 
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-60%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 60%"/>
+  <img src="https://img.shields.io/badge/C%2FC++-25%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ 25%"/>
+  <img src="https://img.shields.io/badge/TypeScript-10%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript 10%"/>
+  <img src="https://img.shields.io/badge/JavaScript-5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 5%"/>
+</p>
 ---
 
 ## 🚀 Projects
