@@ -93,6 +93,11 @@
 - Developed an AI application using decision trees on **50,000+ COVID-19 records**, achieving **92% accuracy** in forecasting regional outbreak trends
 - Integrated a **RAG workflow** to query medical documentation, cross-referencing model outputs with text data for interpretable findings
 
+**🤖 CodeWalker** | *Python, FastAPI, Next.js, TypeScript, Ollama, ChromaDB* | June 2026
+- Built a fully local, open-source codebase Q&A tool letting developers browse any public GitHub repo and ask natural language questions about structure and code, with answers streamed back as clickable file:line citations
+- Implemented a RAG pipeline using deepseek-coder:6.7b (LLM) and nomic-embed-text (embeddings) via Ollama, with tree-sitter AST chunking and ChromaDB vector storage — achieving semantic code search with **zero API costs**
+- Engineered a reflect-and-requery agent loop that autonomously refines search queries up to 3 iterations when initial context is insufficient, improving answer relevance on complex codebases
+
 ---
 
 ## 🤝 Contributions
