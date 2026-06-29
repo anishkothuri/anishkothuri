@@ -68,7 +68,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishkothuri&show_icons=true&theme=dark&count_private=true&hide=stars,contribs&hide_rank=false" alt="Anish's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anishkothuri&show_icons=true&theme=dark&count_private=true&hide=stars&cache_seconds=86400" alt="Anish's GitHub Stats" />
 </p>
 
 
