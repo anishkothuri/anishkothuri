@@ -63,15 +63,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishkothuri&show_icons=true&theme=dark&count_private=true&hide=stars&cache_seconds=86400" alt="Anish's GitHub Stats" />
-</p>
-
-
 
 ## 💻 Most Used Languages
 
